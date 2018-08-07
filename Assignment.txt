@@ -1,0 +1,10 @@
+1. Define matrix mymat by replicating the sequence 1:5 for 4 times and transforming into a matrix, sum
+over rows and columns.
+Ans: In mathematics, a matrix (plural: matrices) is a rectangular array[1] of numbers, symbols, or expressions, arranged in rows and columns. For example, the dimensions of the matrix below are 4 × 5 (read "two by three"), because there are Four rows and Five columns:
+
+       [1,] [2,] [3,] [4,] [5,]
+[1,]    1    5    4    3    2
+[2,]    2    1    5    4    3
+[3,]    3    2    1    5    4
+[4,]    4    3    2    1    5
+   
